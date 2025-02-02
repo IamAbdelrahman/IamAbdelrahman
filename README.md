@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Mohamed Kamal</h1>
-<h3 align="center">A passionate embedded systems software developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabdelrahman&label=Profile%20views&color=0e75b6&style=flat" alt="iamabdelrahman" /> </p>
+<div id="badges" align='center'> 
+  <a href="https://www.linkedin.com/in/abdelruhman-kamal-31b8b0333/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamabdelrahman" alt="iamabdelrahman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamabdokamal" target="blank"><img src="https://img.shields.io/twitter/follow/iamabdokamal?logo=twitter&style=for-the-badge" alt="iamabdokamal" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Embedded Systems Software**
 
+---
+
+### :man_technologist: About Me :
+I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. I was interested in Embedded Systems Software. 
+
+- :telescope: I graduated from faculty of Engineering, Communications and Electronics department
+  ,Tanta University  With Grade Good (73.5%) <<2018 : 2023>>
+- :seedling: 🌱 I’m currently learning **Advanced Back-end Topics**
+
+- :zap: In my free time, I solve problems on LeetCode/HackerRank and read tech articles.
 - 📫 How to reach me **abdelruhman.m.kamal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,11 +28,38 @@
 <a href="https://www.hackerearth.com/abdelruhman_m_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abdelruhman_m_k1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdelrahman&show_icons=true&locale=en&layout=compact" alt="iamabdelrahman" /></p>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET Framework" alt=".NET Framework" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="60" height="60"/>&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabdelrahman&show_icons=true&locale=en" alt="iamabdelrahman" /></p>
+</div>
+---
+<h1 align="center">Skills</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdelrahman&" alt="iamabdelrahman" /></p>
+```json
+{
+    "skills": [
+        "C#",                                   "ASP.NET Core Web API",     "Entity Framework Core",
+        "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
+        ".NET Core",                            "ASP.NET Core MVC",         "Unit Testing"
+        "Software Engineering Practices",       "Clean Code",               "Algorithms",
+        "Design Patterns",                      "Problem Solving",          "Linux"
+        "Object-Oriented Programming (OOP)",    "Data Structures",          "Git",
+        "SQL Server",                                                      
+        "SOLD"
+    ]
+}
+```
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mona400&theme=neon-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona400&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+<img src="https://komarev.com/ghpvc/?username=iamabdelrahman&label=Profile%20views&color=0e75b6&style=flat" alt="iamabdelrahman" /> </p>
+  </div>
