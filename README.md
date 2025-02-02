@@ -57,9 +57,11 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ```
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mona400&theme=neon-dark)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdelrahman&show_icons=true&locale=en&layout=compact" alt="iamabdelrahman" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona400&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div align='center'>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabdelrahman&show_icons=true&locale=en" alt="iamabdelrahman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdelrahman&" alt="iamabdelrahman" /></p>
+
 <img src="https://komarev.com/ghpvc/?username=iamabdelrahman&label=Profile%20views&color=0e75b6&style=flat" alt="iamabdelrahman" /> </p>
   </div>
