@@ -7,25 +7,22 @@
 
 </div>
 
-
----
-
 ### :man_technologist: About Me :
-I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. I was interested in Embedded Systems Software. 
+I am a back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. I was interested in Embedded Systems Software. 
 
-- :telescope: I graduated from faculty of Engineering, Communications and Electronics department
-  ,Tanta University  With Grade Good (73.5%) <<2018 : 2023>>
-- :seedling: 🌱 I’m currently learning **Advanced Back-end Topics**
+- :telescope: I graduated from the faculty of Engineering, Communications and Electronics department
+  , Tanta University  With Grade Good (73.5%) <<2018: 2023>>
+- :seedling: I’m currently learning **Advanced Back-end Topics**
 
 - :zap: In my free time, I solve problems on LeetCode/HackerRank and read tech articles.
 - 📫 How to reach me **abdelruhman.m.kamal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamabdokamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabdokamal" height="30" width="40" /></a>
+<a href="https://x.com/iamabdokamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabdokamal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamabdelrahmankamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamabdelrahmankamal" height="30" width="40" /></a>
-<a href="https://fb.com/akisbaack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akisbaack" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abdelruhman_m_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abdelruhman_m_k1" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AkisBaack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akisbaack" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abdelruhman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abdelruhman" height="30" width="40" /></a>
 </p>
 
 
